@@ -1,6 +1,8 @@
 # HTML&CSS 웹 개발 입문 강의
 
-이 강의는 프로그래밍을 이제 막 시작하시는 분들을 위하여 만든 HTML/CSS 강의 소스 입니다. 강의는 [유튜브 짐코딩 채널](https://www.youtube.com/channel/UCZ30aWiMw5C8mGcESlAGQbA/?sub_confirmation=1)에서 만날 수 있어요 😄
+이 강의는 프로그래밍을 이제 막 시작하시는 분들을 위하여 만든 HTML/CSS 강의 소스 입니다.
+
+강의는 [유튜브 짐코딩 채널](https://www.youtube.com/channel/UCZ30aWiMw5C8mGcESlAGQbA/?sub_confirmation=1)에서 만날 수 있어요 😄
 
 그리고 해당 강의는 HTML&CSS 기본 문법에 충실하고 있어요. HTML&CSS를 활용한 활용편은 추후에 준비해보도록 할게요~!
 
